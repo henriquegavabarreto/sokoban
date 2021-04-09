@@ -1,0 +1,11 @@
+Corridor
+
+#######
+#     #
+#$ $  #
+#  # .#
+#@ #$.#
+#.##  #
+#######
+
+This level was created by the sokoban level generator

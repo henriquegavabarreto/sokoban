@@ -1,0 +1,11 @@
+Round 'n Round
+
+#######
+#     #
+# $.$ #
+# *#. #
+#  +$ #
+#     #
+#######
+
+Every line below the last of the map should be ignored (that doesn't have a hash)
