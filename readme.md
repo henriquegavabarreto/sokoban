@@ -2,6 +2,8 @@
 
 This is a still in development sokoban clone made using ruby2d.
 
+![Round 'n Round level](/screenshots/level.png)
+
 ## Setup
 
 Make sure you have the ruby2d gem installed.
@@ -38,7 +40,7 @@ Levels are loaded in order and they follow the common [sokoban representation](h
 
 ## Tasks
 
-[ ] Create and add additional sound and music
-[ ] Create and add additional sprites and animations
-[ ] Create a parser for different level file formats? (.sok, .xsb, RLE, .tsb, .hsb, .txt, ...?)
-[ ] Create fun levels \o/
+- [ ] Create and add additional sound and music
+- [ ] Create and add additional sprites and animations
+- [ ] Create a parser for different level file formats? (.sok, .xsb, RLE, .tsb, .hsb, .txt, ...?)
+- [ ] Create fun levels \o/
