@@ -15,7 +15,7 @@ gem install ruby2d
 To get the game up and running:
 
 ````
-ruby init.rb
+ruby sokoban.rb
 ````
 
 ## Levels
