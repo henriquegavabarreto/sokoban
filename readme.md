@@ -1,15 +1,17 @@
 ## Introduction
 
-This is a still in development sokoban clone made using ruby2d.
+This is a sokoban clone made using ruby2d.
 
 ![Round 'n Round level](/screenshots/level.png)
 
 ## Setup
 
-Make sure you have the ruby2d gem installed.
+Clone this repository with your prefered method.
+
+Run bundle install to make sure you have ruby (3.0.0) the Ruby2d v0.9.5 gem installed.
 
 ````
-gem install ruby2d
+bundle install
 ````
 
 To get the game up and running:
@@ -38,8 +40,11 @@ Levels are loaded in order and they follow the common [sokoban representation](h
 
 - Lines after the level should not have `#` and will be ignored by the Level Manager when drawing the level
 
+- Add your own level files to the `/levels` directory. Levels will be shown in alphabetical order
+
 ## Tasks
 
+- [ ] Update code to current Ruby2d version
 - [ ] Create and add additional sound and music
 - [ ] Create and add additional sprites and animations
 - [ ] Create a parser for different level file formats? (.sok, .xsb, RLE, .tsb, .hsb, .txt, ...?)

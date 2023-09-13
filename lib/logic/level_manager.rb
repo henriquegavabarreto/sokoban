@@ -29,7 +29,7 @@ class LevelManager
         level = []
 
 
-        # analyse file
+        # analyze file
         level_file.each_index do |i|
             # We defined that for our custom created txt files, the first line will always be the title of the level
             if i == 0
